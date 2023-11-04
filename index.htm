@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Raddar Offer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .header {
+            background-color: #f8f9fa;
+            text-align: center;
+            padding: 20px;
+        }
+        .offer {
+            border: 1px solid #ddd;
+            margin: 10px;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Bem-vindo ao Raddar Offer</h1>
+    </div>
+    <div class="offer">
+        <h2>Oferta 1</h2>
+        <p>Esta é a descrição da oferta 1.</p>
+    </div>
+    <div class="offer">
+        <h2>Oferta 2</h2>
+        <p>Esta é a descrição da oferta 2.</p>
+    </div>
+</body>
+</html>
